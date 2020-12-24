@@ -1,0 +1,16 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Home_Designed/WTF-9_v2/MOD9_V1/Images/folding_stock_assembly_(video).mp4 filter=lfs diff=lfs merge=lfs -text
+Home_Designed/WTF-9_v2/MOD9_V2/Images/folding_stock_assembly_(video).mp4 filter=lfs diff=lfs merge=lfs -text
+Home_Designed/WTF-9_v2/MOD9_V2/STL/Mod9_Hyd_Buffer_Endcap_Final.STL filter=lfs diff=lfs merge=lfs -text
+Home_Designed/WTF-9_v2/MOD9_V2/STL/Mod9_Lower_Receiver_Final.STL filter=lfs diff=lfs merge=lfs -text
+Accessories/Magazines/AR-15/30_Round_Magazine-Ivanthetroll/Tutorial_V1/DIY_AR15_mag_spring_bending_tutorial_part_1.mp4 filter=lfs diff=lfs merge=lfs -text
+Home_Designed/WTF-9_v2/Community_Designs/Beta_Testing/WTF-9_California_Compliant/ECM_files/3SNC_Mandrel_Set.zip filter=lfs diff=lfs merge=lfs -text
+Home_Designed/WTF-9_v2/MISC/Books/Gunsmithing_Modern_Firearms_A_Gun_Guy’s_Guide_to_Making_Good_Guns_Even_Better_by_Bryce_M_Towsley.epub filter=lfs diff=lfs merge=lfs -text
+Home_Designed/WTF-9_v2/MOD9_V2/STL/Mod9_Barrel_Retainer_Final.STL filter=lfs diff=lfs merge=lfs -text
+Pistols_and_Subs/Glock/G17/FMDA_G17_Gen_3_DIY_V1.1_(F17_Update)/STL/f17_d33p_ffmu.stl filter=lfs diff=lfs merge=lfs -text
+Pistols_and_Subs/Misc/Sci_fi_pistol_prototype/stl/Reciever_mk1.0.stl filter=lfs diff=lfs merge=lfs -text
+Pistols_and_Subs/Misc/Sci_fi_pistol_prototype/stl/grip_mk1.0.stl filter=lfs diff=lfs merge=lfs -text
+Pistols_and_Subs/Misc/Sig_P250/IPT/Polymer_v5_latest_backup.ipt filter=lfs diff=lfs merge=lfs -text
+Rifles/AR-15/Complete_Reference_Design_Set_v1.1-Deterrence_Dispensed/STEP/AR-15-Complete_Assembly/AR-15.STEP filter=lfs diff=lfs merge=lfs -text
+Rifles/AR-15/Complete_Reference_Design_Set_v1.1-Deterrence_Dispensed/X_T/AR-15-Complete_Assembly/AR-15.x_t filter=lfs diff=lfs merge=lfs -text
